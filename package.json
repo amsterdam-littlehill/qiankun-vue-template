@@ -1,0 +1,11 @@
+{
+  "name": "qiankun-vue-template",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Customized qiankun micro application template",
+  "scripts": {
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}

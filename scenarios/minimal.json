@@ -1,0 +1,13 @@
+{
+  "noEscape": true,
+  "name": "test-minimal",
+  "description": "Testing the minimal template setup",
+  "author": "CircleCI",
+  "router": false,
+  "vuex": false,
+  "validate": false,
+  "lint": false,
+  "unit": false,
+  "e2e": false,
+  "autoInstall": false
+}

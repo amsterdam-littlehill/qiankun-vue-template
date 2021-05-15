@@ -1,0 +1,13 @@
+{
+  "noEscape": true,
+  "name": "test",
+  "description": "A Vue.js project",
+  "author": "CircleCI",
+  "router": true,
+  "vuex": true,
+  "validate": true,
+  "lint": true,
+  "unit": true,
+  "e2e": true,
+  "autoInstall": false
+}
